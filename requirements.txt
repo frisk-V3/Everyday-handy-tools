@@ -1,8 +1,0 @@
-flet
-requests
-feedparser
-deep-translator
-qrcode
-pillow
-numpy
-schedule
